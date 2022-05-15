@@ -1,1 +1,1 @@
-# Seja ben-vindo ao curso de GitHub
+# Seja bem-vindo ao curso de GitHub
