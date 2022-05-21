@@ -5,3 +5,5 @@ Priscilla
 Rafael
 David
 Gabriel
+George
+Thor
