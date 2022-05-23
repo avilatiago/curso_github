@@ -7,4 +7,8 @@ David
 Gabriel
 George
 Thor
+<<<<<<< HEAD
 Amanda
+=======
+Vinicius
+>>>>>>> page_home
