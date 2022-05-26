@@ -8,3 +8,5 @@ function signUp(email){
 function mostraMensagem(){
     return Bem-vindo ao sistema;
 }
+
+//finalizando cadastro.
