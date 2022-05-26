@@ -1,12 +1,12 @@
 function signUp(email){
-    return email;
+    return email
 }
 
-//pegando email e cadastrando na plataforma.
+//pegando email e cadastrando na plataforma
 
 
 function mostraMensagem(){
-    return Bem-vindo ao sistema;
+    return Bem-vindo
 }
 
-//finalizando cadastro.
+//finalizando cadastro
