@@ -5,4 +5,5 @@ function login(nome, email){
 //TESTE BRANCH
 
 
-//NOVAS FUNÇÕES
+//ARRUMANDO SISTEMA DE LOGIN
+//DO CURSO DE GIT
